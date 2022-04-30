@@ -1,0 +1,22 @@
+.parent {
+    background-color: black;
+    width: 600px;
+    display: flex;
+}
+
+.box {
+    width: 150px;
+    height: 150px;
+}
+
+.first {
+    background-color: green;
+}
+
+.second {
+    background-color: red;
+}
+
+.third {
+    background-color: yellow;
+}

@@ -1,0 +1,13 @@
+.parent {
+    display:flex;
+    
+}
+
+.column {
+    display: flex;
+    justify-content: ;
+    color: green;
+    left: 300px;
+    position:relative;
+    
+}
